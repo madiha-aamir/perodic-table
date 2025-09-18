@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Periodic Table</title>
+</head>
+<body>
+<h2>Periodic Table</h2>
+
+<table border="1" cellspacing="0" cellpadding="6">
+<tr>
+<td bgcolor="#ffcccc">H</td>
+<td colspan="16"></td>
+<td bgcolor="#ccffff">He</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffcccc">Li</td>
+<td bgcolor="#ffcccc">Be</td>
+<td colspan="10"></td>
+<td bgcolor="#ffffcc">B</td>
+<td bgcolor="#ffffcc">C</td>
+<td bgcolor="#ffffcc">N</td>
+<td bgcolor="#ffffcc">O</td>
+<td bgcolor="#ffffcc">F</td>
+<td bgcolor="#ccffff">Ne</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffcccc">Na</td>
+<td bgcolor="#ffcccc">Mg</td>
+<td colspan="10"></td>
+<td bgcolor="#ffffcc">Al</td>
+<td bgcolor="#ffffcc">Si</td>
+<td bgcolor="#ffffcc">P</td>
+<td bgcolor="#ffffcc">S</td>
+<td bgcolor="#ffffcc">Cl</td>
+<td bgcolor="#ccffff">Ar</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffcccc">K</td>
+<td bgcolor="#ffcccc">Ca</td>
+<td bgcolor="#ccccff">Sc</td>
+<td bgcolor="#ccccff">Ti</td>
+<td bgcolor="#ccccff">V</td>
+<td bgcolor="#ccccff">Cr</td>
+<td bgcolor="#ccccff">Mn</td>
+<td bgcolor="#ccccff">Fe</td>
+<td bgcolor="#ccccff">Co</td>
+<td bgcolor="#ccccff">Ni</td>
+<td bgcolor="#ccccff">Cu</td>
+<td bgcolor="#ccccff">Zn</td>
+<td bgcolor="#ffffcc">Ga</td>
+<td bgcolor="#ffffcc">Ge</td>
+<td bgcolor="#ffffcc">As</td>
+<td bgcolor="#ffffcc">Se</td>
+<td bgcolor="#ffffcc">Br</td>
+<td bgcolor="#ccffff">Kr</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffcccc">Rb</td>
+<td bgcolor="#ffcccc">Sr</td>
+<td bgcolor="#ccccff">Y</td>
+<td bgcolor="#ccccff">Zr</td>
+<td bgcolor="#ccccff">Nb</td>
+<td bgcolor="#ccccff">Mo</td>
+<td bgcolor="#ccccff">Tc</td>
+<td bgcolor="#ccccff">Ru</td>
+<td bgcolor="#ccccff">Rh</td>
+<td bgcolor="#ccccff">Pd</td>
+<td bgcolor="#ccccff">Ag</td>
+<td bgcolor="#ccccff">Cd</td>
+<td bgcolor="#ffffcc">In</td>
+<td bgcolor="#ffffcc">Sn</td>
+<td bgcolor="#ffffcc">Sb</td>
+<td bgcolor="#ffffcc">Te</td>
+<td bgcolor="#ffffcc">I</td>
+<td bgcolor="#ccffff">Xe</td>
+</tr>
+</table>
+
+</body>
+</html>
